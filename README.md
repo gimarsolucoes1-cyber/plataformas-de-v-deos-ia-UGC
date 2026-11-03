@@ -1,7 +1,18 @@
-# Plataforma de Vídeos IA UGCPlataforma para criação automática de avatares e edição de conteúdo em vídeo com inteligência artificial, baseada no projeto OpenShorts.
 
-## Funcionalidades- Geração de avatares virtuais- Edição automática de vídeos curtos- Suporte a legendas e narração automática- Ferramentas para conteúdo UGC
+# Plataforma de Vídeos IA UGC
+Plataforma para criação automática de avatares e edição de conteúdo em vídeo com inteligência artificial, baseada no projeto OpenShorts.
 
-## Como usar1. Clone ou baixe o repositório2. Instale as dependências do projeto3. Execute o arquivo principal para iniciar a plataforma
+## Funcionalidades
+- Geração de avatares virtuais
+- Edição automática de vídeos curtos
+- Suporte a legendas e narração automática
+- Ferramentas para conteúdo UGC
 
-## LicençaProjeto distribuído sob licença aberta para estudo e desenvolvimento.
+## Como usar
+1. Clone ou baixe o repositório
+2. Instale as dependências do projeto
+3. Execute o arquivo principal para iniciar a plataforma
+
+## Licença
+Projeto distribuído sob licença aberta para estudo e desenvolvimento.
+
