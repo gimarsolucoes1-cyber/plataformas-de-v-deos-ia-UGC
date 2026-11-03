@@ -1,11 +1,7 @@
-# Plataforma de Vídeos IA UGC
-Plataforma para geração de vídeos UGC, avatares IA e edição automática de conteúdo para redes sociais.
+# Plataforma de Vídeos IA UGCPlataforma para criação automática de avatares e edição de conteúdo em vídeo com inteligência artificial, baseada no projeto OpenShorts.
 
-## 🚀 Funcionalidades
-- Geração de vídeos UGC
-- Avatares IA falantes
-- Sincronização labial
-- Edição automática: legendas, corte e formato vertical para Reels / TikTok / Shorts
+## Funcionalidades- Geração de avatares virtuais- Edição automática de vídeos curtos- Suporte a legendas e narração automática- Ferramentas para conteúdo UGC
 
-## 📌 Tecnologias base
-Projeto construído sobre modelos open‑source de geração audiovisual por inteligência artificial.
+## Como usar1. Clone ou baixe o repositório2. Instale as dependências do projeto3. Execute o arquivo principal para iniciar a plataforma
+
+## LicençaProjeto distribuído sob licença aberta para estudo e desenvolvimento.
