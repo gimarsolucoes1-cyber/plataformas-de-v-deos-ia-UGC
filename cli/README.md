@@ -30,3 +30,6 @@ and durable download links.
 The hosted free tier is 20 minutes/month with a watermark; paid plans from
 $12/month. The self-hosted edition is MIT and has no meter. Agent-native
 version of the same surface: [openshorts.app/mcp](https://www.openshorts.app/mcp).
+
+## Comandos da OpenShorts CLIA sua plataforma usa a ferramenta OpenShorts CLI para converter vídeos longos para o formato vertical 9:16 ideal para redes sociais.
+### Instalação```bashpip install openshorts
