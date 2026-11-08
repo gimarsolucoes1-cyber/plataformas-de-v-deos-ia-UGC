@@ -1,0 +1,119 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Verseo AI Logo" width="120">
+</p>
+
+<h1 align="center">Verseo AI</h1>
+
+<p align="center">
+  Plataforma de criação de conteúdo com inteligência artificial: vídeos, imagens, áudios e textos em um só lugar.
+</p>
+
+<p align="center">
+  <a href="#"><strong>Acesse a plataforma</strong></a>
+</p>
+
+---
+
+## ℹ️ Sobre a Verseo AI
+
+A Verseo AI é uma plataforma completa de criação de conteúdo UGC alimentada por modelos de inteligência artificial de última geração. Ela reúne todas as ferramentas necessárias para produzir e editar imagens, vídeos e áudios sem trocar de aplicativo, ideal para criadores de conteúdo, marcas e equipes de marketing.
+
+Nossa missão é simplificar a produção de material profissional para redes sociais, reduzindo o tempo de edição e tornando ferramentas avançadas de IA acessíveis em uma interface moderna e intuitiva.
+
+ᛉ Estamos construindo passo a passo, sempre abertos a ajustes e sugestões da comunidade.
+
+## ✨ Destaques da plataforma
+✅ Ferramentas organizadas por categorias: Imagens, Vídeos e Áudio
+✅ Motor de IA de última geração para maior qualidade, naturalidade e precisão em todas as gerações
+✅ Interface moderna com visual escuro profissional
+✅ Fluxo simplificado: crie um novo projeto, escolha a ferramenta desejada e exporte o resultado
+✅ Gerencie todos os seus trabalhos na página de Projetos
+
+## 🎯 Para quem é essa plataforma
+- Criadores de conteúdo UGC e influenciadores
+- Equipes de marketing e marcas que produzem anúncios curtos
+- Editores de vídeo que querem agilizar tarefas repetitivas
+- Criadores que desejam gerar avatares, narrações e material visual de alta qualidade sem sair de uma única ferramenta
+
+## 🛠️ Ferramentas da Verseo AI
+
+### 📂 Navegação
+- Início
+- Explorar
+- Ferramentas
+- Projetos
+
+### 📑 Categorias de ferramentas
+#### 🖼️ Imagens
+- **Gerar imagens**: Crie imagens originais de alta qualidade a partir de descrições de texto usando IA de última geração
+- **Editar com IA**: Modifique imagens já existentes com inteligência artificial
+- **Melhorar qualidade**: Aumente resolução, nitidez e detalhes das suas fotos
+- **Remover plano de fundo**: Isole objetos e remova fundos indesejados com resultados naturais
+- **Melhorar pele**: Refine detalhes e textura em retratos
+- **Adicionar marca d’água**: Insira logotipo ou texto personalizado em imagens
+- **Remover marca d’água**: Apague marcas d’água indesejadas de fotos
+
+#### 🎬 Vídeos
+- **Gerar vídeo por texto**: Crie vídeos completos de alta qualidade escrevendo a cena desejada
+- **Modificar / Recriar vídeo**: Reestilize e transforme vídeos que você já possui
+- **Editor de vídeos**: Corte, ajuste e finalize os seus projetos de vídeo
+- **Avatar falante**: Transforme uma foto em personagem animado com áudio sincronizado e movimentos naturais
+- **Cortar clipes verticais**: Converta vídeos longos para formato 9:16 para redes sociais
+- **Adicionar marca d’água**: Insira marca d’água em arquivos de vídeo
+- **Remover marca d’água**: Use IA para remover marca d’água de vídeos
+
+#### 🔊 Áudio
+- **Texto para voz**: Gere narrações de voz naturais e realistas para os seus vídeos
+- **Gerar efeitos sonoros**: Crie efeitos de som com inteligência artificial
+- **Clonagem de voz**: Clone ou crie uma voz personalizada
+- **Modificar voz**: Altere o timbre e características de gravações de voz
+- **Gerar música**: Crie faixas de música a partir de descrições de texto
+
+## 🚀 Guia rápido de primeiros passos
+1. Acesse a página Início e clique em **Novo Projeto**
+2. Selecione a categoria desejada: Imagens, Vídeos ou Áudio
+3. Escolha a ferramenta que atende a sua necessidade
+4. Insira o seu prompt ou faça upload do arquivo original
+5. Aguarde o processamento pela IA de última geração
+6. Visualize o resultado e exporte no formato compatível
+
+## ⚠️ Limites e observações
+- O tempo de geração varia conforme o tamanho do arquivo e a complexidade da tarefa
+- Para melhores resultados, use prompts claros e objetivos nas ferramentas de geração
+- Arquivos muito grandes podem demorar mais para ser processados
+
+## 📸 Exemplos de uso
+- Criar anúncios UGC verticais para Instagram, TikTok e Reels
+- Gerar avatar falante para vídeos de apresentação de marca
+- Produzir narrações e efeitos sonoros sem gravar voz própria
+- Restaurar e melhorar qualidade de imagens e vídeos antigos
+
+## ⚡ Vantagens
+✅ Todas as ferramentas em uma única plataforma, sem trocar de aplicativo
+✅ Gerações unificadas pelo mesmo motor de IA de alta qualidade
+✅ Organização centralizada de todos os seus projetos
+✅ Fluxo contínuo: gere, edite e exporte sem sair da plataforma
+
+## 📊 Formatos de exportação suportados
+- Imagem: PNG, JPG
+- Vídeo: MP4 (formato vertical 9:16 otimizado para redes sociais)
+- Áudio: MP3, WAV
+
+## 🚀 Funcionalidades planejadas para próximas atualizações
+- Modelos prontos de vídeos para nichos específicos (beleza, moda, gastronomia, tecnologia)
+- Agendamento direto de publicação nas redes sociais
+- Biblioteca de ativos gratuitos: imagens, faixas de áudio e efeitos sonoros
+- Controle de versão para editar e restaurar versões antigas dos seus projetos
+
+## 📋 Requisitos
+- Navegador web moderno
+- Conexão estável com internet para processamento de IA
+
+## 📜 Licença
+Projeto open‑source, disponível para estudo, modificação e uso conforme os termos definidos no arquivo LICENSE.
+
+## 🤝 Como contribuir
+Você pode abrir issues para sugerir novas ferramentas, reportar bugs ou enviar pull requests com melhorias no código e na interface.
+
+## 📞 Suporte
+Para dúvidas, sugestões ou relatórios de erros, abra uma issue no repositório.
