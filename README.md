@@ -1,5 +1,7 @@
-<img src=assets/logo.png" alt="Verseo AI" style="max-width: 280px;">
-# Verseo AI Criação de conteúdo UGC com Inteligência Artificialᛉ---
+!
+  ![Verseo AI]!(assets/logo.png)
+# ! Verseo AI
+ Criação de conteúdo UGC com Inteligência Artificialᛉ---
 # Plataforma de Vídeos IA UGCPlataforma para criação automática de avatares...
 # Plataforma de Vídeos IA UGC
 Plataforma para criação automática de avatares e edição de conteúdo em vídeo com inteligência artificial, baseada no projeto OpenShorts.
