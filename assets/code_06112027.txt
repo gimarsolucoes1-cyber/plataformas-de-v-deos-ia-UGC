@@ -1,0 +1,4 @@
+pasta‑raiz‑verseo‑ai/
+├── assets/
+│   └── logo.png
+└── README.md
