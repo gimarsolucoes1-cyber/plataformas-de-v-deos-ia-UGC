@@ -1,4 +1,4 @@
-<img src="public/logo-opensource.png" alt="Verseo AI" style="max-width: 280px;">
+<img src=assets/logo.png" alt="Verseo AI" style="max-width: 280px;">
 # Verseo AI Criação de conteúdo UGC com Inteligência Artificialᛉ---
 # Plataforma de Vídeos IA UGCPlataforma para criação automática de avatares...
 # Plataforma de Vídeos IA UGC
