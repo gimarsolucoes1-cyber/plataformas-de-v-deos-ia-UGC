@@ -1,6 +1,6 @@
 
-  ![Verseo AI]!(assets/logo.jpg)
-# ! Verseo AI
+  [Verseo AI](assets/logo.jpg)
+# !Verseo AI
  Criação de conteúdo UGC com Inteligência Artificialᛉ---
 # Plataforma de Vídeos IA UGCPlataforma para criação automática de avatares...
 # Plataforma de Vídeos IA UGC
